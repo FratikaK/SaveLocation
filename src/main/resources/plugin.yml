@@ -1,0 +1,8 @@
+name: SaveLocation
+version: '${version}'
+main: com.github.kamunyan.savelocation.SaveLocation
+api-version: 1.16
+authors: [ kamunyan ]
+
+commands:
+  sl:
